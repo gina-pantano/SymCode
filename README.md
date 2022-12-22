@@ -168,10 +168,15 @@ VESTA is a free and user-friendly software for visualizing crystal structures [6
 
 ## References
 [1] Ohtomo, A., & Hwang, H. Y. (2004). A High-Mobility Electron Gas at the LAALO3/SRTIO3 Heterointerface. Nature, 427(6973), 423–426. https://doi.org/10.1038/nature02308   
-[2] Riordan, M., Hoddeson, L., & Herring, C. (1999). The Invention of the Transistor. Reviews of Modern Physics, 71(2). https://doi.org/10.1103/revmodphys.71.s336   
+
+[2] Riordan, M., Hoddeson, L., & Herring, C. (1999). The Invention of the Transistor. Reviews of Modern Physics, 71(2). https://doi.org/10.1103/revmodphys.71.s336 
+
 [3] Tsymbal, E. Y., & Dowben, P. A. (2013). Grand Challenges in Condensed Matter Physics: From Knowledge to Innovation. Frontiers in Physics, 1. https://doi.org/10.3389/fphy.2013.00032   
+
 [4] Arnold, H., Bertaut, E. F., Billiet, Y., Buerger, M. J., Burzlaff, H., Fischer, W., Zimmermann, H., Wondratschek, H., de Wolff, P. M., Müller, U., Looijenga-Vos, A., Koch, E., Klapper, H., Hahn, T., & Gruber, B. (2006). International Tables For Crystallography. International Tables for Crystallography, A(5), 815–816. https://doi.org/10.1107/97809553602060000100   
+
 [5] Togo, A., & Tanaka, I. (2018, August 5). Spglib: A Software Library for Crystal Symmetry Search. arXiv.org. Retrieved December 21, 2022, from https://arxiv.org/abs/1808.01590   
+
 [6] Momma, K., & Izumi, F. (2011). VESTA 3 for three-dimensional visualization of crystal, volumetric and morphology data. Journal of Applied Crystallography, 44(6), 1272–1276. https://doi.org/10.1107/s0021889811038970 
 
 
