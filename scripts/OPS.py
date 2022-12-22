@@ -410,13 +410,6 @@ translation_sym = [np.array([0, 0, 0]),
                     np.array([1./3, 2./3, 0])
                   ]
 
-# t_sym = []
-# for i in range(len(translation_sym)):
-#     translation_sym[i] = translation_sym[i].reshape(3,1)
-#     t = np.hstack([np.array([[1,0,0],[0,1,0],[0,0,1]]),translation_sym[i]])
-#     t_sym.append(t)
-
-#fil = open("Syms.txt", "w+")
 keys = []
 r_sym = []
 for i in range(len(translation_sym)):
@@ -427,12 +420,7 @@ for i in range(len(translation_sym)):
         key = keys.append(r)
         m = np.hstack([op,translation_sym[i]])
         r_sym.append(m)
-#         fil.write(str(m))
-#         fil.write("\n")
-#         fil.write("\n")
-
 
 
 ops = dict(zip(keys,r_sym))
 
-# fil.close()
