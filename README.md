@@ -10,7 +10,7 @@ SymCode was originally created with the intended purpose of studying symmetries 
 SymCode is currently limited to crystal systems with primitive vectors in a conventional cartesian basis of the form a = [1,0,0], b = [0,1,0], and c = [0,0,1] where a, b, c are the crystal axes. Additionally, SymCode only considers perfectly aligned crystallographic domain boundaries where the magnitude of the primitive vectors remains unchanged. The second version of the code is underdevelopment to be able to transform matrix operations to the users basis of choice and account for different types of interfaces such as heteorstructures, terminations, and misaligned planes (see more details below under "Future Edits"). 
 
 ### Features
-* Access to an extensive database (OPS) of the point and translation symmetry operations for the seven crystal systems. Note: The operation matrices are written in a cartesian basis ($[1,0,0], [0,1,0], [0,0,1]$), and the database does not contain screw axis and glide plane symmetries with a sequential pure translation.
+* Access to an extensive database (OPS) of the point and translation symmetry operations for the seven crystal systems. Note: The operation matrices are written in a cartesian basis ([1,0,0], [0,1,0], [0,0,1]), and the database does not contain screw axis and glide plane symmetries with a sequential pure translation.
 * Determines the symmetry operations of a given crystal and prints the matrix representations to a text file.
 * Determines the number of symmetry operations that can form a perfect domain boundary interface. 
 * Determines the number of unique interfaces that can form and groups the symmetry operations that form each unique interface into a easily accessible dictionary.
